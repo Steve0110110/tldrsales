@@ -6,3 +6,5 @@ My name is Steve.  I am a sales and marketing professional who enjoys learning a
 2/28/18 06:48 AM - Created and published blank terms of service and privacy policy pages. Used helpful tool at http://www.formswift.com to autogenerate legal terms of service document.
 
 2/28/18 10:43 AM - Created and published privacy policy. Used helpful too at https://www.freeprivacypolicy.com/ to auto-generate the required verbiage.
+
+2/28/2018 2:53 PM - Have been taken down a rabbit hole on getting a SSL certificate.  Part of the questionnaire at the privacy policy generator above asked about whether or not I would be gathering personal information (yes, emails - hopefully). Led me to buying a Comodo SSL certificate from http://www.ssls.com ($3.83) and spending the next couple of hours working to get it issued and then upload the certificate, .ca bundle, and RSA key uploaded via my cPanel. Reached out to hosting provider to install the certificate for a 1 time fee ($10).  Inadvertently requested the certificate be uploaded to the incorrect domain so had to correct for another ($10).  Lesson learned.  Waiting to see next step from hosting provider in the process.
