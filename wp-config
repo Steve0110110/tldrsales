@@ -1,3 +1,4 @@
 #I added these lines directly to the WP-Config file for tldrsales
 define('WP_HOME','https://tldrsales.com');
 define('WP_SITEURL','https://tldrsales.com');
+define('FORCE_SSL_ADMIN', true);
